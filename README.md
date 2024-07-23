@@ -1,6 +1,6 @@
 
 ## Features
-- **User Authentication**: Users can sign up and log in using Firebase Authentication.
+- **User Authentication**: Users can log in using Firebase Authentication.
 - **View Food Items**: Browse available food items in a RecyclerView.
 - **Add to Cart**: Add selected food items to the cart.
 - **Cart Management**: View total amount and manage items in the cart.
