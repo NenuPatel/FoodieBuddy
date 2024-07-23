@@ -1,5 +1,3 @@
-# FoodieBuddy
-FoodieBuddy is a mobile app for ordering food. Users can sign up, log in, view food items, add items to their cart, and see the total amount of items in their cart. The app uses Firebase for authentication and data storage, with data displayed in a RecyclerView coming from a JSON object. Built in Android Studio using Java.
 
 ## Features
 - **User Authentication**: Users can sign up and log in using Firebase Authentication.
@@ -8,31 +6,10 @@ FoodieBuddy is a mobile app for ordering food. Users can sign up, log in, view f
 - **Cart Management**: View total amount and manage items in the cart.
 - **Realtime Database**: Data stored and retrieved using Firebase Realtime Database.
 
-  ## Output
+ ## Output
 
-<p align="center">
- 
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/a08684ec-c215-432e-9021-ebeea64eac8c" width="200" height="400"  style="margin-right: 30px;"/>
-
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/26d160d1-657c-4e45-b4ec-ab6d0f0d555d" width="200" height="400"  style="margin-right: 30px;"/>
-
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/62323a2b-5f7d-485a-97c7-3c72f2eb5376" width="200" height="400"  style="margin-right: 30px;"/>
-
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/d07fa552-9df1-406f-bd13-ba18220c22fb" width="200" height="400"  style="margin-right: 30px;"/>
-
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/14027403-1236-41dc-9812-677c9837577f" width="200" height="400"  style="margin-right: 30px;"/>
-
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/e8fce728-610d-4a7a-b23e-dd55ef5e970b" width="200" height="400"  style="margin-right: 30px;"/>
-
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/f63af816-4ad4-4229-a1b4-942bcd5ca326" width="200" height="400"  style="margin-right: 30px;"/>
-
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/ad20a87a-eb27-4cf1-93dd-ada5e3b88e0a" width="200" height="400"  style="margin-right: 30px;"/>
-
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/0b121ae0-b4d5-4434-9c2d-298b40580c3e" width="200" height="400"  style="margin-right: 30px;"/>
-
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/ddc3be1e-46e3-44fe-86aa-74037a417a81" width="200" height="400"  style="margin-right: 20px;"/>
-
-<img src="https://github.com/HirvaPurohit/HirvaPurohit-FoodieBuddy-Food-Ordering-App/assets/131869875/dd220668-7a60-4acf-9cdf-7fe21c22818d" width="200" height="400" />
-
-
-</p>
+![1](https://github.com/user-attachments/assets/e52b1647-5452-4d5e-bf78-b73791042cbe) ![3](https://github.com/user-attachments/assets/cbb708b9-fb1c-4a6c-ba89-fcc9c08678fb)
+![4](https://github.com/user-attachments/assets/7924e479-611b-434f-9946-9ad94ac888ff) ![5](https://github.com/user-attachments/assets/5300493c-977b-47c1-8d51-500c43ef1011)
+![6 1](https://github.com/user-attachments/assets/9a54bd44-c25d-4a22-b31c-92d9546070be) ![7](https://github.com/user-attachments/assets/1a15da67-993d-41c7-ba75-67f406bf989e)
+![8](https://github.com/user-attachments/assets/d9208f40-4f82-422f-84d5-dbb1c69929ed) ![9](https://github.com/user-attachments/assets/97c18735-e31a-4ca6-a069-82766841e2b6)
+![10](https://github.com/user-attachments/assets/bfc6b52b-6980-4409-b5dd-2aaee8d11601) ![11](https://github.com/user-attachments/assets/e8a7a352-2c57-4b36-b2c3-a0aec840aa1c)
