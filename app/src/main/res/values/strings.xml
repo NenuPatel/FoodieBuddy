@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FoodieBuddy</string>
+    <string name="Login_Heading">Login</string>
+    <string name="login_to_nfind_the_best_food">Login to\nfind the best food</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t Have an Account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu">Menu</string>
+    <string name="popular">Popular</string>
+    <string name="explor_your_favourite_food">Explor Your Favourite Food</string>
+    <string name="what_do_you_want_to_order">What do you want to order?</string>
+    <string name="username">Username\n</string>
+    <string name="url">http://192.168.0.147/test/api.php</string>
+    <string name="url2">https://jsonplaceholder.typicode.com/posts</string>
+    <string name="default_description">Beef Burger Big juicy beef burger with cheese, lettuce, tomato, onions and special sauce!</string>
+    <string name="setting">Setting</string>
+</resources>
